@@ -37,3 +37,4 @@ Año= Label(text="Año",font=("Agency FB",14)).place(x=25,y=260)
 Año=StringVar()
 txtaño=Entry(root,textvariable=Nombre)
 
+btnFuntion1 = Button(root, text= "FUNCION 1")
