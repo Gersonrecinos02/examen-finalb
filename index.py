@@ -4,6 +4,8 @@ root = Tk()
 root.title("Examen final")
 root.geometry("600x500")
 
+miFrame = Frame()
+
 
 
 
