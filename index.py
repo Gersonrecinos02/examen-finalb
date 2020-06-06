@@ -25,3 +25,4 @@ Apellido= Label(text="Apellido",font=("Agency FB",14)).place(x=25,y=120)
 Apellido=StringVar()
 txtapellido=Entry(root,textvariable=Apellido)
 
+Día= Label(text="Día",font=("Agency FB",14)).place(x=25,y=160)
