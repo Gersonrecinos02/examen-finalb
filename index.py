@@ -13,5 +13,10 @@ Saludo = Label(text="Bienvenidos",font=("Agency6 FB",25)).place(x=250,y=30)
 
 
 
+def Resultado():
+    Label(root,text=""+Nombre()+' es impar y '+Apellido()+'es impar',font=("Agency Fb",14)).place(x=25,y=120)
+    
+
+
 
 
