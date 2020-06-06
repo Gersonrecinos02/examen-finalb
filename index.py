@@ -20,3 +20,5 @@ def Resultado():
 Nombre= Label(text="Nombre",font=("Agency FB",14)).place(x=25,y=80)
 Nombre=StringVar()
 txtnombre=Entry(root,textvariable=Nombre,width=34)
+
+Apellido= Label(text="Apellido",font=("Agency FB",14)).place(x=25,y=120)
