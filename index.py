@@ -39,3 +39,4 @@ txtaño=Entry(root,textvariable=Nombre)
 
 btnFuntion1 = Button(root, text= "FUNCION 1")
 btnFuntion1 = Button(root, text= "FUNCION 2")
+btnFuntion1 = Button(root, text= "FUNCION 3")
