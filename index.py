@@ -34,3 +34,5 @@ Mes=StringVar()
 txtmes=Entry(root,textvariable=Nombre)
 
 Año= Label(text="Año",font=("Agency FB",14)).place(x=25,y=260)
+Año=StringVar()
+txtaño=Entry(root,textvariable=Nombre)
