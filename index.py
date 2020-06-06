@@ -41,4 +41,6 @@ btnFuntion1 = Button(root, text= "FUNCION 1")
 btnFuntion1 = Button(root, text= "FUNCION 2")
 btnFuntion1 = Button(root, text= "FUNCION 3")
 btnFuntion1 = Button(root, text= "FUNCION 4")
+btnFuntion1 = Button(root, text= "FUNCION 5")
 
+root.mainloop()
