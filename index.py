@@ -28,3 +28,5 @@ txtapellido=Entry(root,textvariable=Apellido)
 Día= Label(text="Día",font=("Agency FB",14)).place(x=25,y=160)
 Día=StringVar()
 txdia=Entry(root,textvariable=Nombre,)
+
+Mes = Label(text="Mes",font=("Agency FB",14)).place(x=25,y=220)
