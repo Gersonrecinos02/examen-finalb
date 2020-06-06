@@ -32,3 +32,5 @@ txdia=Entry(root,textvariable=Nombre,)
 Mes = Label(text="Mes",font=("Agency FB",14)).place(x=25,y=220)
 Mes=StringVar()
 txtmes=Entry(root,textvariable=Nombre)
+
+Año= Label(text="Año",font=("Agency FB",14)).place(x=25,y=260)
